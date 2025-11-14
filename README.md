@@ -1,2 +1,9 @@
-# spark-delta-training
-Spark and Delta training material
+# Spark Delta training material
+
+## Setup
+
+```
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip3 install -r requirements.txt
+```
